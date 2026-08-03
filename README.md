@@ -6,7 +6,7 @@ An interactive dashboard built with **Streamlit** to analyze the relationship be
 
 ## 🚀 Live Demo
 
-🔗 **Coming Soon** *(Will be updated after Streamlit deployment.)*
+🔗 https://student-sleep-pattern-dashboard.streamlit.app
 
 ---
 
