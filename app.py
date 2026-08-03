@@ -20,7 +20,7 @@ st.markdown("Analyze the relationship between sleep habits and academic performa
 # ==========================
 @st.cache_data
 def load_data():
-    df = pd.read_csv(r"D:\College\college_sleep_and_gpa.csv")
+    df = pd.read_csv("college_sleep_and_gpa.csv")
 
     # Cleaning
     df = df.dropna(subset=["gender"]).reset_index(drop=True)
